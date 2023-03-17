@@ -2,6 +2,7 @@
 
 | Month | Report | Meta | Entry Count | Total Size |
 |:-----:|:-------|:-----|------------:|-----------:|
+| 10 | [`202210`](https://github.com/crissyfield/crux-dumps/blob/main/2022/10) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2022/10/meta.json) | 17637195 | 90.8 MiB |
 | 9 | [`202209`](https://github.com/crissyfield/crux-dumps/blob/main/2022/09) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2022/09/meta.json) | 17715277 | 89.0 MiB |
 | 8 | [`202208`](https://github.com/crissyfield/crux-dumps/blob/main/2022/08) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2022/08/meta.json) | 16754655 | 84.3 MiB |
 | 7 | [`202207`](https://github.com/crissyfield/crux-dumps/blob/main/2022/07) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2022/07/meta.json) | 16190453 | 81.4 MiB |
