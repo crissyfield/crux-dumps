@@ -8,6 +8,57 @@
       "meta": "https://github.com/crissyfield/crux-dumps/raw/main/2022/meta.json",
       "months": [
         {
+          "id": "202206",
+          "year": 2022,
+          "month": 6,
+          "url": "https://github.com/crissyfield/crux-dumps/blob/main/2022/06",
+          "meta": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/meta.json",
+          "files": [
+            {
+              "file": "1000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/1000.txt.xz",
+              "rank": 1000,
+              "count": 1000,
+              "size": 6140
+            },
+            {
+              "file": "10000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/10000.txt.xz",
+              "rank": 10000,
+              "count": 9000,
+              "size": 52692
+            },
+            {
+              "file": "100000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/100000.txt.xz",
+              "rank": 100000,
+              "count": 90000,
+              "size": 497792
+            },
+            {
+              "file": "1000000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/1000000.txt.xz",
+              "rank": 1000000,
+              "count": 900000,
+              "size": 4744424
+            },
+            {
+              "file": "10000000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/10000000.txt.xz",
+              "rank": 10000000,
+              "count": 9000000,
+              "size": 45754252
+            },
+            {
+              "file": "100000000.txt.xz",
+              "url": "https://github.com/crissyfield/crux-dumps/raw/main/2022/06/100000000.txt.xz",
+              "rank": 100000000,
+              "count": 6230572,
+              "size": 34559592
+            }
+          ]
+        },
+        {
           "id": "202205",
           "year": 2022,
           "month": 5,
