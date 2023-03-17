@@ -4,6 +4,50 @@
   "meta": "https://github.com/crissyfield/crux-dumps/raw/main/2021/meta.json",
   "months": [
     {
+      "id": "202108",
+      "year": 2021,
+      "month": 8,
+      "url": "https://github.com/crissyfield/crux-dumps/blob/main/2021/08",
+      "meta": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/meta.json",
+      "files": [
+        {
+          "file": "1000.txt.xz",
+          "url": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/1000.txt.xz",
+          "rank": 1000,
+          "count": 1000,
+          "size": 5992
+        },
+        {
+          "file": "10000.txt.xz",
+          "url": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/10000.txt.xz",
+          "rank": 10000,
+          "count": 9000,
+          "size": 52196
+        },
+        {
+          "file": "100000.txt.xz",
+          "url": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/100000.txt.xz",
+          "rank": 100000,
+          "count": 90000,
+          "size": 493920
+        },
+        {
+          "file": "1000000.txt.xz",
+          "url": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/1000000.txt.xz",
+          "rank": 1000000,
+          "count": 900000,
+          "size": 4722188
+        },
+        {
+          "file": "10000000.txt.xz",
+          "url": "https://github.com/crissyfield/crux-dumps/raw/main/2021/08/10000000.txt.xz",
+          "rank": 10000000,
+          "count": 7431699,
+          "size": 38567520
+        }
+      ]
+    },
+    {
       "id": "202107",
       "year": 2021,
       "month": 7,
