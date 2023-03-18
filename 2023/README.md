@@ -2,4 +2,5 @@
 
 | Month | Report | Meta | Entry Count | Total Size |
 |:-----:|:-------|:-----|------------:|-----------:|
+| 2 | [`202302`](https://github.com/crissyfield/crux-dumps/blob/main/2023/02) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2023/02/meta.json) | 18184396 | 93.3 MiB |
 | 1 | [`202301`](https://github.com/crissyfield/crux-dumps/blob/main/2023/01) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2023/01/meta.json) | 18203637 | 93.4 MiB |

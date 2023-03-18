@@ -26,7 +26,7 @@ LATEST_TOP_1000_URL=$(
       | jq -r '.years[].months | sort_by(.id) | last | .files[] | select(.rank == 1000) | .url'
 )
 
-# Download dataset and decompress
+# Download dump and decompress
 curl -sSL $LATEST_TOP_1000_URL | xzcat
 ```
 
@@ -37,12 +37,13 @@ curl -sSL $LATEST_TOP_1000_URL | xzcat
 3. Dumps are not cumulative, i.e. URLs in dump `1000.txt.xz` are <u>not</u> included in dump `5000.txt.xz`.
 
 
-## Available Datasets
+## Available Dumps
 
 ### 2023
 
 | Month | Report | Meta | Entry Count | Total Size |
 |:-----:|:-------|:-----|------------:|-----------:|
+| 2 | [`202302`](https://github.com/crissyfield/crux-dumps/blob/main/2023/02) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2023/02/meta.json) | 18184396 | 93.3 MiB |
 | 1 | [`202301`](https://github.com/crissyfield/crux-dumps/blob/main/2023/01) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2023/01/meta.json) | 18203637 | 93.4 MiB |
 
 ### 2022
