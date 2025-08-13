@@ -1,0 +1,79 @@
+{
+  "id": "202507",
+  "year": 2025,
+  "month": 7,
+  "url": "https://github.com/crissyfield/crux-dumps/blob/main/2025/07",
+  "meta": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/meta.json",
+  "files": [
+    {
+      "file": "1000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/1000.txt.xz",
+      "rank": 1000,
+      "count": 1000,
+      "size": 6192
+    },
+    {
+      "file": "5000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/5000.txt.xz",
+      "rank": 5000,
+      "count": 4000,
+      "size": 24720
+    },
+    {
+      "file": "10000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/10000.txt.xz",
+      "rank": 10000,
+      "count": 5000,
+      "size": 33164
+    },
+    {
+      "file": "50000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/50000.txt.xz",
+      "rank": 50000,
+      "count": 40000,
+      "size": 234712
+    },
+    {
+      "file": "100000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/100000.txt.xz",
+      "rank": 100000,
+      "count": 50000,
+      "size": 309448
+    },
+    {
+      "file": "500000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/500000.txt.xz",
+      "rank": 500000,
+      "count": 400000,
+      "size": 2211592
+    },
+    {
+      "file": "1000000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/1000000.txt.xz",
+      "rank": 1000000,
+      "count": 500000,
+      "size": 2883468
+    },
+    {
+      "file": "5000000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/5000000.txt.xz",
+      "rank": 5000000,
+      "count": 4000000,
+      "size": 20845444
+    },
+    {
+      "file": "10000000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/10000000.txt.xz",
+      "rank": 10000000,
+      "count": 5000000,
+      "size": 26974780
+    },
+    {
+      "file": "50000000.txt.xz",
+      "url": "https://github.com/crissyfield/crux-dumps/raw/main/2025/07/50000000.txt.xz",
+      "rank": 50000000,
+      "count": 8068328,
+      "size": 44028072
+    }
+  ]
+}
