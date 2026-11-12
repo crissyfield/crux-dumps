@@ -43,6 +43,7 @@ curl -sSL $LATEST_TOP_1000_URL | xzcat
 
 | Month | Report | Meta | Entry Count | Total Size |
 |:-----:|:-------|:-----|------------:|-----------:|
+| 10 | [`202610`](https://github.com/crissyfield/crux-dumps/blob/main/2026/10) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2026/10/meta.json) | 18070207 | 93.3 MiB |
 | 9 | [`202609`](https://github.com/crissyfield/crux-dumps/blob/main/2026/09) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2026/09/meta.json) | 18376044 | 95.1 MiB |
 | 8 | [`202608`](https://github.com/crissyfield/crux-dumps/blob/main/2026/08) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2026/08/meta.json) | 18294881 | 94.7 MiB |
 | 7 | [`202607`](https://github.com/crissyfield/crux-dumps/blob/main/2026/07) | [`meta.json`](https://github.com/crissyfield/crux-dumps/raw/main/2026/07/meta.json) | 18059068 | 93.5 MiB |
